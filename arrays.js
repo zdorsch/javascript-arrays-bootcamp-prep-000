@@ -51,5 +51,8 @@ function addElementToEndOfArray(sisters,myself){
       return foo;
     }
     
+    var parts = ["Prop","Wheels","wings"]
+    
+    function 
     
     

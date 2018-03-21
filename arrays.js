@@ -64,6 +64,10 @@ function addElementToEndOfArray(sisters,myself){
      shoes.pop();
      return shoes
    }
-    
-    function 
+    var parks = ["Ann","Julie","Albert"]
+
+    function removeElementFromEndOfArray(parks){
+      parks.slice(0, parks.length - 1)
+      return parks
+    }
     

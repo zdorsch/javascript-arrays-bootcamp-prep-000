@@ -43,3 +43,5 @@ function addElementToEndOfArray(sisters,myself){
       var dayOfWeek = (days[`${index}`])
       return dayOfWeek
     }
+    
+    

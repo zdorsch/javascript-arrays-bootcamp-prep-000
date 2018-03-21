@@ -44,4 +44,12 @@ function addElementToEndOfArray(sisters,myself){
       return dayOfWeek
     }
     
+  const foo = [1,2,3,4,5,6]
+    
+    function destructivelyRemoveElementFromBeginningOfArray(foo){
+      foo.shift()
+      
+      
+      
+    }
     

@@ -67,7 +67,7 @@ function addElementToEndOfArray(sisters,myself){
     var parks = ["Ann","Julie","Albert"]
 
     function removeElementFromEndOfArray(parks){
-      parks.slice(0, parks.length - 1)
-      return parks
+     lessParks = parks.slice(0, parks.length - 1)
+      return lessParks
     }
     

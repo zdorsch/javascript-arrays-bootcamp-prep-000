@@ -53,6 +53,9 @@ function addElementToEndOfArray(sisters,myself){
     
     var parts = ["Prop","Wheels","wings"]
     
-    function 
+    function removeElementFromBeginningOfArray(parts){
+      parts = parts.slice(1)
+    }
+    
     
     

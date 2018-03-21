@@ -58,6 +58,10 @@ function addElementToEndOfArray(sisters,myself){
       return parts
     }
     
+    var shoes =["Running","dress","Basketball"]
     
+   function destructivelyRemoveElementFromEndOfArray(shoes){
+     
+   }
     
     

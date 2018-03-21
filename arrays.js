@@ -36,9 +36,9 @@ function addElementToEndOfArray(sisters,myself){
     return games;
     }
     
+    var days = ["Monday","Tuesday","Wednesday","Thursday"];
+    var week = "Today is:"
     
-    
-    function accessElementInArray(day,index){
-      var days = ["Monday","Tuesday","Wednesday","Thursday"];
-      console.log(days[3]);
+    function accessElementInArray(days,week){
+      console.log(week + days[3])
     }

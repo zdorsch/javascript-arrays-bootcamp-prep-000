@@ -55,6 +55,7 @@ function addElementToEndOfArray(sisters,myself){
     
     function removeElementFromBeginningOfArray(parts){
       parts = parts.slice(1)
+      return parts
     }
     
     

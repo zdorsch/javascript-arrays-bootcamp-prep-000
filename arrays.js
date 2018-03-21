@@ -61,7 +61,8 @@ function addElementToEndOfArray(sisters,myself){
     var shoes =["Running","dress","Basketball"]
     
    function destructivelyRemoveElementFromEndOfArray(shoes){
-     
+     shoes.pop();
+     return shoes
    }
     
     

@@ -47,10 +47,9 @@ function addElementToEndOfArray(sisters,myself){
   const foo = [1,2,3,4,5,6]
     
     function destructivelyRemoveElementFromBeginningOfArray(foo){
-      foo.shift()
-      return foo
-      
-      
-      
+      foo.shift();
+      return foo;
     }
+    
+    
     

@@ -40,5 +40,6 @@ function addElementToEndOfArray(sisters,myself){
     var index = 3
     
     function accessElementInArray(days,index){
-      return (days[`${index}`])
+      var dayOfWeek = (days[`${index}`])
+      return dayOfWeek
     }

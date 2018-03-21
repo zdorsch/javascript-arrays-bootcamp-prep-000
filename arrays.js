@@ -37,8 +37,8 @@ function addElementToEndOfArray(sisters,myself){
     }
     
     var days = ["Monday","Tuesday","Wednesday","Thursday"];
-    var week = "Today is:"
+    var index = 3
     
-    function accessElementInArray(days,week){
+    function accessElementInArray(days,index){
       console.log(week + days[3])
     }

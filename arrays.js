@@ -48,6 +48,7 @@ function addElementToEndOfArray(sisters,myself){
     
     function destructivelyRemoveElementFromBeginningOfArray(foo){
       foo.shift()
+      return foo
       
       
       
